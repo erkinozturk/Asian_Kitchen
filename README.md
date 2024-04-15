@@ -3,7 +3,8 @@ A simple Far Eastern restaurant menu
 
 ![](img/asian_kitchen_menu.png)
 
-## InstallationFirst, clone the project.
+## Installation
+First, clone the project.
 ```
 git clone https://github.com/erkinozturk/Asian_Kitchen.git
 ```
